@@ -26,6 +26,76 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0057.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0058.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0357.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0358.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0361.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0362.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/qa-001-1sqbosn.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/qa-001-mz897g.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangam-night-info.program-school.online/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0052.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -47,16 +117,6 @@
   </url>
   <url>
     <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0056.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0057.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260719-0058.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -136,16 +196,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0357.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0358.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0359.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -156,62 +206,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0361.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0362.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangam-night-info.program-school.online/posts/gemini-coverage-20260722-0363.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/qa-001-1sqbosn.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts/qa-001-mz897g.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangam-night-info.program-school.online/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
